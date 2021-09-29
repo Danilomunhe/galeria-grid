@@ -19,11 +19,6 @@ header{
     justify-content: center;
     align-items: center;
 }
-.img{
-height: 30vh;
-width: 30vw;
-    
-}
 header:hover{
     color: black;
     text-shadow: 0.1rem 0.1rem white;
